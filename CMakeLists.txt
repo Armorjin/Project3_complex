@@ -3,8 +3,8 @@ project(Complex)
 
 set(SOURCES
        
-    ./src/complex.h
-    ./src/complex.cpp
+    ./src/my_complex.h
+    ./src/my_complex.cpp
 
     )
 
